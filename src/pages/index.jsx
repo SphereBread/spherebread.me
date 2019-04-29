@@ -71,32 +71,32 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Boop"
+            title="Instagram"
             link="https://www.instagram.com/sphere_bread/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            Boop.
+            Тут различные фоточки.
           </ProjectCard>
           <ProjectCard
-            title="Beep"
+            title="Рокетбанк"
             link="https://rocketbank.ru/loves/ohshitwaddup"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            Beep.
+            Оформляйте карту Рокета по моей ссылке. Они классные!
           </ProjectCard>
           <ProjectCard
-            title="Blop"
+            title="GitHub"
             link="https://github.com/SphereBread"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Blop
+            Всякие репозитории, энджой.
           </ProjectCard>
           <ProjectCard
-            title="Meow"
+            title="Яндекс.Музыка"
             link="https://music.yandex.ru/users/gerasimov.matvei/playlists/3"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Meow.
+            А тут вся музыка, которую я лайкаю (около 7 тысяч треков).
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
