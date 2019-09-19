@@ -79,7 +79,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Рокетбанк"
-            link="https://rocketbank.ru/loves/ohshitwaddup"
+            link="https://rocketbank.ru/loves/%F0%9F%8C%88"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             Оформляйте карту Рокета по моей ссылке. Они классные!
