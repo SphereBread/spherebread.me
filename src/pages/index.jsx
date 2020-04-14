@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hi, <br /> I'm Matvey.
         </BigTitle>
-        <Subtitle>I'm trying to do some programming and I work in IT support.</Subtitle>
+        <Subtitle>I'm trying to do some programming, working Application Support Analyst at EPAM.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -78,11 +78,11 @@ const Index = () => (
             Тут различные фоточки.
           </ProjectCard>
           <ProjectCard
-            title="Рокетбанк"
-            link="https://rocketbank.ru/loves/%F0%9F%8C%88"
+            title="Тинькофф"
+            link="https://www.tinkoff.ru/rm/gerasimov.matvey1/1g2MK91488/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            Оформляйте карту Рокета по моей ссылке. Они классные!
+            Какие выплаты мне положены?
           </ProjectCard>
           <ProjectCard
             title="GitHub"
@@ -96,7 +96,7 @@ const Index = () => (
             link="https://music.yandex.ru/users/gerasimov.matvei/playlists/3"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            А тут вся музыка, которую я лайкаю (около 7 тысяч треков).
+            А тут вся музыка, которую я лайкаю (около 8,5 тысяч треков).
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -116,13 +116,13 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="https://tlg.wtf/sphere_bread">Hi</a> or find me on other platforms:{' '}
+            Say <a href="https://tlg.fyi/sphere_bread">Hi</a> or find me on other platforms:{' '}
             <a href="https://twitter.com/Sphere_Bread">Twitter</a> &{' '}
             <a href="https://vk.com/menya_est_kust">VK</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by SphereBread.{' '}
+          &copy; 2020 by SphereBread.{' '}
           <a href="https://github.com/SphereBread/spherebread.tk">Github Repository</a>.
         </Footer>
       </Contact>
