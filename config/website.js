@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'SphereBread', // Alternative Site title for SEO
   siteTitleShort: 'Kolobok', // short_name for manifest
   siteHeadline: 'Trying to do some programming', // Headline for schema.org JSONLD
-  siteUrl: 'https://spherebread.tk', // Domain of your site. No trailing slash!
+  siteUrl: 'https://spherebread.me', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Meow',
